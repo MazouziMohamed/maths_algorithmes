@@ -1,2 +1,10 @@
-# maths_algorithmes
-Dépôt dédié à l'implémentation algorithmique (python &amp; c) et à la résolution rigoureuse des exercices de mathématiques pour le programme (BTS-DAI et de niveau supérieur).
+ 1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
